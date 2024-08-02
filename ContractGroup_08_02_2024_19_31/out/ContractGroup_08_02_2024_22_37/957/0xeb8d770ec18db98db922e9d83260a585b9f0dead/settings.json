@@ -1,0 +1,1 @@
+{"optimizer":{"enabled":true,"runs":800},"outputSelection":{"*":{"*":["evm.bytecode","evm.deployedBytecode","devdoc","userdoc","metadata","abi"]}},"libraries":{},"compilerVersion":"v0.8.18+commit.87f61d96","constructorArguments":[0,0,0,0,0,0,0,0,0,0,0,0,231,96,61,241,145,214,153,216,189,152,145,184,33,52,125,186,184,137,229,165],"evmVersion":"paris","viaIr":false}

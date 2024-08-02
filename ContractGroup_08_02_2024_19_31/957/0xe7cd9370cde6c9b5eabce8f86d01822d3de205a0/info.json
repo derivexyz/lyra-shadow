@@ -5,6 +5,6 @@
   "network": "unknown",
   "chainId": 957,
   "source": "etherscan",
-  "uniqueEvents": 0,
+  "uniqueEvents": 21,
   "deploymentTransactionHash": "0x90f6b1a6d8447bce8cf69b66579e9f0dc1ffdfff4eafaa507dd43f4f94368ed1"
 }

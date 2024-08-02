@@ -1,0 +1,15 @@
+forge-std/=lib/forge-std/src
+lib/lyra-utils/=lib/lyra-utils
+lib/openzeppelin-contracts/=lib/openzeppelin-contracts
+src/risk-managers/=src/risk-managers
+src/interfaces/=src/interfaces
+forge-std/=lib/forge-std/src/
+openzeppelin/=lib/openzeppelin-contracts/contracts/
+openzeppelin-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
+chainlink/=lib/chainlink/
+lyra-utils/=lib/lyra-utils/src/
+src/decimals/=lib/lyra-utils/src/decimals/
+ds-test/=lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/
+openzeppelin-contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/
+openzeppelin-contracts/=lib/openzeppelin-contracts/

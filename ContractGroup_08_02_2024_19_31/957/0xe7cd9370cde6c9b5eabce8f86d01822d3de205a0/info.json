@@ -1,0 +1,10 @@
+{
+  "address": "0xe7cd9370cde6c9b5eabce8f86d01822d3de205a0",
+  "contractDeployer": "0xa82994cc5e9d94fed2916f762e03245fcbe79f23",
+  "name": "PMRM",
+  "network": "unknown",
+  "chainId": 957,
+  "source": "etherscan",
+  "uniqueEvents": 0,
+  "deploymentTransactionHash": "0x90f6b1a6d8447bce8cf69b66579e9f0dc1ffdfff4eafaa507dd43f4f94368ed1"
+}

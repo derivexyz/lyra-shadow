@@ -1,0 +1,19 @@
+{
+  "displayName": "Unnamed Contract Group",
+  "creator": null,
+  "creationDate": "2024-08-02T19:42:09.220247Z",
+  "contracts": [
+    {
+      "address": "0xe7cd9370cde6c9b5eabce8f86d01822d3de205a0",
+      "chain_id": 957
+    },
+    {
+      "address": "0xeb8d770ec18db98db922e9d83260a585b9f0dead",
+      "chain_id": 957
+    },
+    {
+      "address": "0xb8d20c2b7a1ad2ee33bc50ef10876ed3035b5e7b",
+      "chain_id": 957
+    }
+  ]
+}

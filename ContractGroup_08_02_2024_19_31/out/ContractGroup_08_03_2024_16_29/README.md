@@ -21,3 +21,9 @@ Sample transaction with PM
 cd ContractGroup_08_02_2024_19_31
 shadow sim 0xcde1b5f14b489c5ea2fe7e02fb3c8cf25d533a2e735b855aa8106d094a7e6d65 --rpc-url https://rpc.lyra.finance
 ```
+
+# Pushing to IPFS
+Deployer address: 0xA82994cc5e9D94FED2916f762e03245FcBE79f23
+
+`shadow push --rpc-url https://rpc.lyra.finance --pinata-api-key XXX --pin
+ata-secret-api-key XXX`
